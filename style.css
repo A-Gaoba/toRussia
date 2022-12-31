@@ -231,6 +231,23 @@ textarea.input-control {
   color: white;
 }
 
+.hamburger{
+  display: none;
+}
+
+.mobile_nav{
+  display: none;
+  flex-direction: column;
+  direction: ltr;
+  color: black;
+  font-weight: 500;
+  font-size: 14px;
+  z-index: 1;
+  background-color: #bde0fe;
+  padding: 20px;
+}
+
+
 
 /* home */
 .home {
