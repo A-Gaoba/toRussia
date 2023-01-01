@@ -1,5 +1,3 @@
-
-
 const burger = document.getElementById("burger");
 const navLinks = document.querySelector(".nav-links");
 

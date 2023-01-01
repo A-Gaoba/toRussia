@@ -231,40 +231,8 @@ textarea.input-control {
   color: white;
 }
 
-.hamburger{
+.hamburger {
   display: none;
-}
-
-.mobile_nav{
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 100%;
-  width: 100px;
-  direction: ltr;
-  color: black;
-  font-weight: 600;
-  font-size: 14px;
-  z-index: 90;
-  background-color:#c1edfd ;
-  padding: 20px;
-  margin-top: 50px;
-  transition: 0.4s;
-}
-
-.mobile_nav a{
-  display: block;
-  width: 100%;
-  min-width: 200px;
-  margin: 0 auto 16px;
-  /* text-align: center; */
-}
-.mobile_nav a:hover{
-color: white;
-}
-.mobile_nav.is-active{
-display: block;
- left: 0;
 }
 
 /* home */
